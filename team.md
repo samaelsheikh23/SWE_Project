@@ -23,6 +23,3 @@
 - **Backend Developer:** Handles server-side logic, database operations, and APIs.
 - **Frontend Developer:** Implements the user interface and connects it with the backend.
 
----
-
-*Software Engineering Course Project*
