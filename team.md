@@ -14,8 +14,8 @@
 | **No.** | **Team Member** | **Role** |
 |:---:|---|---|
 | 1 | Sama Elsheikh | UI/UX Designer |
-| 2 | Ahmed Sawan | Backend Developer |
-| 3 | Menna Abdelkareem | Frontend Developer |
+| 2 | Ahmed Sawan | Frontend Developer |
+| 3 | Menna Abdelkareem | Backend Developer |
 
 ## Roles Overview
 
