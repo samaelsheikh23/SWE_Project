@@ -40,6 +40,3 @@ All team members should work on separate branches and submit Pull Requests for r
 4. Open a Pull Request.
 5. Ask a teammate to review it.
 6. Merge only after the required approval.
-
-ection for `main` is enabled and a screenshot is saved
-- [ ] Merge conflict is created and resolved; the resolution is documented
